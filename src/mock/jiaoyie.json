@@ -1,0 +1,52 @@
+{
+	"year": [
+		{
+			"sichuan": 1004.18,
+			"guangdong": 1387,
+			"hubei": 1237.19,
+			"shanxi": 1125.28,
+			"jiangsu": 1152.64,
+			"shandong": 856.87,
+			"zejiang": 629.10,
+			"shanghai": 1303.20,
+			"beijing": 4957.82,
+			"tianjin": 725.26
+		},
+		{
+			"sichuan": 419.70,
+			"guangdong": 949.50,
+			"hubei": 1066,
+			"shanxi": 921.5,
+			"jiangsu": 827.90,
+			"shandong": 541.60,
+			"liaoning": 409,
+			"shanghai": 867.50,
+			"beijing": 4485.30,
+			"tianjin": 658.50
+		},
+		{
+			"sichuan": 304.88,
+			"guangdong": 789.68,
+			"hubei": 927.73,
+			"shanxi": 802.74,
+			"jiangsu": 729.26,
+			"shandong": 420.14,
+			"liaoning": 340.18,
+			"shanghai": 822.86,
+			"beijing": 3940.80,
+			"tianjin": 602.32
+		},
+		{
+			"sichuan": 295.85,
+			"guangdong": 339.74,
+			"hubei": 830.05,
+			"shanxi": 721.76,
+			"jiangsu": 723.51,
+			"shandong": 339.74,
+			"liaoning": 292.04,
+			"shanghai": 707.99,
+			"beijing": 3452.07,
+			"tianjin": 539.18
+		}
+	]
+}
